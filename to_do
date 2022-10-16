@@ -1,0 +1,6 @@
+TO DO:
+0) !!! GPU USAGE !!!
+1) wandb
+2) lightning class
+3) augmentations https://github.com/albumentations-team/albumentations 
+4) save model procces
